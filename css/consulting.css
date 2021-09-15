@@ -6,10 +6,9 @@ body{
     background-color: white;
     font-family: 'Work Sans', sans-serif;
     z-index: 0;
-    width: 109%;
 }
 body::-webkit-scrollbar {
-    width: 2px;
+    width: 3px;
   }
    
   body::-webkit-scrollbar-track {
